@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
+  color: #94b8d1;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 42px;
+
+  text-align:center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  margin: 1em 0;
+}
+
+p, ul, ol, blockquote, pre {
+  line-height: 150%;
+  letter-spacing: 0.1px;
+}
+
+body {
+  background-color: #14232e;
+  font-family: "Helvetica Neue";
+  color: #94b8d1;
+  height: 100%;
+  line-height: 150%;
+ 
+}
+svg{
+    height:44vw;
+    margin-left:260px;
+    cursor:pointer;
+   
+}
+
+svg path:active {
+	fill: #94b8d1;
+}
